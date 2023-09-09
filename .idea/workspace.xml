@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12daffc5-911d-4912-873c-249835cdbddf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/list/operacoesBasicas/ListaTarefa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/list/operacoesBasicas/Tarefa.java" afterDir="false" />
+    <list default="true" id="12daffc5-911d-4912-873c-249835cdbddf" name="Changes" comment="Operações com listas">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pesquisa/CatalogoLivros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pesquisa/Livro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,14 @@
       <option name="presentableId" value="Default" />
       <updated>1694219941551</updated>
     </task>
+    <task id="LOCAL-00001" summary="Operações com listas">
+      <created>1694278277044</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694278277044</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Operações com listas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operações com listas" />
   </component>
 </project>
